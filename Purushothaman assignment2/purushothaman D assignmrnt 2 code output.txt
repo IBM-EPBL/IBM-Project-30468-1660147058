@@ -1,3 +1,0 @@
-Current Temperature is 13
-current humidity is 79 %
-Alarm is OFF
